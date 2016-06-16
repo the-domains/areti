@@ -1,0 +1,14 @@
+layout_spectrum: 0.3671306213364005
+typography_spectrum: 0.5227293432690203
+color:
+  brandStrength: 0.7486839890480042
+  lightness: 0.7087172409519553
+  saturation: 0.2421714949887246
+  rhythmicContrast: 0.28537491895258427
+  brandColors:
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+name: areti
